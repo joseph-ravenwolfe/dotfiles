@@ -1,0 +1,26 @@
+[user]
+	name = Joseph Jaber
+	email = mail@josephjaber.com
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[color "status"]
+	added = green
+	changed = yellow
+	untracked = cyan
+	removed = red bold
+[core]
+	quotepath = false
+[github]
+	user = josephjaber
+[merge]
+	conflictstyle = diff3
+[mergetool]
+	keepBackup = true
+[diff]
+  prompt = false
+[difftool]
+  prompt = false
+[push]
+	default = simple
