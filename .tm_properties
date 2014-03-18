@@ -1,0 +1,8 @@
+fontName    = "Monaco"
+fontSize    = 16
+tabSize     = 2
+softTabs    = true
+softWrap    = false
+
+exclude     = "{$exclude,*.tmproj,*.log,*_rb.html,doc/*.html,tmp/*,public/uploads/*,node_modules/*,bower_components/*}"
+excludeInFolderSearch = "{$excludeInFolderSearch,db/migrate,log,doc,coverage,tags,tmp,public/uploads,lib/midas_biopython}"
