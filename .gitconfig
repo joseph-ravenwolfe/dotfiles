@@ -1,6 +1,6 @@
 [user]
-	name = Joseph Jaber
-	email = mail@josephjaber.com
+	name = Joseph Ravenwolfe
+	email = joseph@ravenwolfe.io
 [color]
 	diff = auto
 	status = auto
@@ -13,7 +13,7 @@
 [core]
 	quotepath = false
 [github]
-	user = josephjaber
+	user = joseph-ravenwolfe
 [merge]
 	conflictstyle = diff3
 [mergetool]
