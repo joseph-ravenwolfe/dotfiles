@@ -1,0 +1,88 @@
+{
+  // Code settings
+  "editor.fontWeight": "400",
+  "editor.lineHeight": 30,
+  "editor.renderWhitespace": "none",
+  "editor.renderControlCharacters": false,
+  "editor.minimap.enabled": false,
+
+  // Mouse related settings
+  "editor.smoothScrolling": true,
+  "editor.mouseWheelScrollSensitivity": 2,
+  "editor.scrollBeyondLastLine": true,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorWidth": 2,
+
+  // Explorer settings
+  "explorer.openEditors.visible": 0,
+  "explorer.confirmDelete": false,
+  "explorer.decorations.badges": false,
+  "problems.decorations.enabled": false,
+
+  // UI Settings
+  "window.menuBarVisibility": "toggle",
+
+  // Terminal
+  "terminal.integrated.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+  "terminal.integrated.cursorStyle": "block",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.fontWeight": "500",
+  "workbench.startupEditor": "none",
+  "editor.insertSpaces": true,
+  // "terminal.integrated.rendererType": "dom",
+
+  "files.autoSave": "onWindowChange",
+  // "window.compositionAttribute": "acrylic",
+  // "workbench.iconTheme": "vscode-seedling-icon-theme",
+  // "workbench.colorTheme": "New York",
+
+  "editor.fontSize": 14,
+  "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+  "editor.tabSize": 2,
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "Dracula",
+  "vim.smartRelativeLine": true,
+  "workbench.editorAssociations": {
+    "git-rebase-todo": "default"
+  },
+  "files.associations": {
+    "*.toml": "toml"
+  },
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma",
+    "editor.formatOnSave": true
+  },
+  "workbench.editor.untitled.hint": "hidden",
+  "update.showReleaseNotes": false,
+  "security.workspace.trust.enabled": false,
+  "window.zoomLevel": 2,
+  "workbench.sideBar.location": "right",
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.visible": false,
+  "editor.guides.indentation": false,
+  "indentRainbow.colors": [
+    "rgba(46, 52, 64, 1)",
+    "rgba(46, 52, 64, 1)",
+    "rgba(0, 119, 182, 0.15)",
+    "rgba(0, 150, 199,0.15)",
+    "rgba(0, 180, 216,0.15)",
+    "rgba(72, 202, 228,0.15)",
+    "rgba(144, 224, 239,0.15)"
+  ],
+  "workbench.iconTheme": "ayu",
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "audioCues.lineHasInlineSuggestion": "off",
+  "audioCues.noInlayHints": "off",
+  "audioCues.lineHasError": "off",
+  "editor.accessibilitySupport": "off",
+  "snyk.yesWelcomeNotification": false,
+  "snyk.advanced.cliPath": "/Users/ravenwolfe/Library/Application Support/snyk-ls/snyk-macos",
+  "editor.detectIndentation": false,
+  "prettier.arrowParens": "avoid",
+  "prettier.enable": false
+}
