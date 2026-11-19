@@ -1,0 +1,8 @@
+brew "antigen"
+brew "asdf"
+brew "direnv"
+brew "eza"
+brew "z"
+brew "kubernetes-cli"
+brew "gh"
+brew "jq"
